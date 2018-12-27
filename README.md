@@ -4,11 +4,11 @@
 ABQ Film Tour is an Android app for tourists and film enthusiasts in the Albuquerque area. Users can find, submit, and discuss locations featured in locally filmed movies and television series such as "Breaking Bad" and "Better Call Saul".
 
 ### Functional inventory
-https://github.com/ABQFilmTour/ABQFilmTour
-This is the repository for the client Android application that the end user will use.
 
-https://github.com/ABQFilmTour/ABQFilmTourBackend
-This is the repository for the server side backend REST API. It is a Spring Boot project using an Apache Derby database.
+[Repository](https://github.com/ABQFilmTour/ABQFilmTour) for the client Android application that the end user will use.
+
+
+[Repository] (https://github.com/ABQFilmTour/ABQFilmTourBackend) for the server side backend REST API. It is a Spring Boot project using an Apache Derby database.
 
 ### Team
 [**Joseph Scott Peterson**](https://jscpeterson.github.io)
