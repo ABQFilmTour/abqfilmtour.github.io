@@ -8,7 +8,7 @@ ABQ Film Tour is an Android app for tourists and film enthusiasts in the Albuque
 [Repository](https://github.com/ABQFilmTour/ABQFilmTour) for the client Android application that the end user will use.
 
 
-[Repository] (https://github.com/ABQFilmTour/ABQFilmTourBackend) for the server side backend REST API. It is a Spring Boot project using an Apache Derby database.
+[Repository](https://github.com/ABQFilmTour/ABQFilmTourBackend) for the server side backend REST API. It is a Spring Boot project using an Apache Derby database.
 
 ### Team
 [**Joseph Scott Peterson**](https://jscpeterson.github.io)
