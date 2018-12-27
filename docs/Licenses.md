@@ -1,6 +1,6 @@
 ## Licenses
 
-ABQFilmTour is licensed under [Apache License 2.0](abqfilmtour.github.io/LICENSE)
+ABQFilmTour is licensed under [Apache License 2.0](LICENSE)
 
 ABQFilmTour uses the following:
 
