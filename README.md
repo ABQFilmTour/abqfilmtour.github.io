@@ -14,10 +14,10 @@ This is the repository for the server side backend REST API. It is a Spring Boot
 [**Joseph Scott Peterson**](https://jscpeterson.github.io)
 Backend engineer, set up and maintained the server, set up backend to frontend communication, activity stack management and shared preferences.
 
-**Samuel Andazola**
+[**Samuel Andazola**](https://github.com/samz0la)
 Frontend developer, design manager, created custom logo, splash page, map pins and app theme, in charge of layout design, worked on controllers and repositories in backend.
 
-**Rebecca Farish**
+[**Rebecca Farish**](https://github.com/rebfarish)
 Frontend developer, mathematics consultant, responsible for Google authentication sign-in, device permissions, device location, and layout design, worked on controllers and repositories in backend.
 
 ### Web service
