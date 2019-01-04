@@ -18,7 +18,7 @@ Full stack developer, lead backend engineer, set up and maintained the server, s
 Frontend developer, design manager, created custom logo, splash page, map pins and app theme, in charge of UI/UX and layout design, created dynamic UX wireframes and mockups, worked on controllers and repositories in backend.
 
 [**Rebecca Farish**](https://github.com/rebfarish)
-Frontend developer, mathematics consultant, responsible for oauth2 authentication framework, device permissions, device location, accesability, and layout design, worked on controllers and repositories in backend.
+Frontend developer, mathematics consultant, responsible for oauth2 authentication framework, device permissions, device location, user accessibility, and layout design, worked on controllers and repositories in backend.
 
 ### Web service
 The REST API is hosted at jscpeterson.com. <br />
