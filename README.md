@@ -12,13 +12,13 @@ ABQ Film Tour is an Android app for tourists and film enthusiasts in the Albuque
 
 ### Team
 [**Joseph Scott Peterson**](https://jscpeterson.github.io)
-Backend engineer, set up and maintained the server, set up backend to frontend communication, activity stack management and shared preferences.
+Full stack developer, lead backend engineer, set up and maintained the server, set up backend to frontend communication, activity stack management, shared preferences and layout design.
 
 [**Samuel Andazola**](https://github.com/samz0la)
-Frontend developer, design manager, created custom logo, splash page, map pins and app theme, in charge of layout design, worked on controllers and repositories in backend.
+Frontend developer, design manager, created custom logo, splash page, map pins and app theme, in charge of UI/UX and layout design, created dynamic UX wireframes and mockups, worked on controllers and repositories in backend.
 
 [**Rebecca Farish**](https://github.com/rebfarish)
-Frontend developer, mathematics consultant, responsible for Google authentication sign-in, device permissions, device location, and layout design, worked on controllers and repositories in backend.
+Frontend developer, mathematics consultant, responsible for oauth2 authentication framework, device permissions, device location, accesability, and layout design, worked on controllers and repositories in backend.
 
 ### Web service
 The REST API is hosted at jscpeterson.com. <br />
