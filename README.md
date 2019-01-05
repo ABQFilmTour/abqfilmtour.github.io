@@ -12,6 +12,8 @@ ABQ Film Tour is an Android app for tourists and film enthusiasts in the Albuque
 [Repository](https://abqfilmtour.github.io/OdeonClient/) for an in development client to assist privileged users in moderating the backend database.
 
 ### Team
+Bio: We are alumni of the Deep Dive Coding Java+Android+Salesforce bootcamp through CNM. This application was originally our final team capstone project for the course. We are also submitting it for the UNM/CNM application contest and plan to continue development on it. 
+
 [**Joseph Scott Peterson**](https://jscpeterson.github.io)
 Fullstack developer, lead backend engineer, set up and maintained the server, set up API security, set up backend to frontend communication, activity stack management, shared preferences and layout design.
 
@@ -20,6 +22,12 @@ Frontend developer, design manager, created custom logo, splash page, map pins a
 
 [**Rebecca Farish**](https://github.com/rebfarish)
 Frontend developer, mathematics consultant, responsible for oauth2 authentication framework, device permissions, device location, user accessibility, and layout design, worked on controllers and repositories in backend.
+
+### Test accounts
+The minimum required Android API is 21. It has been successfully tested on emulators and phones running API 26, 27 and 28.
+*API 22* 
+*Accessibility*
+The app is primarily for English users but has Spanish support. It will only run in portrait orientation.
 
 ### Web service
 The REST API is hosted at jscpeterson.com. Endpoints are: <br />
@@ -31,9 +39,6 @@ jscpeterson.com/rest/film_locations/{location_id}/images/ <br />
 ### State of completion
 **To be completed**
 - Image submission/retrieval
-
-### Test platforms
-The minimum required Android API is 21. It has been successfully tested on emulators and phones running API 26, 27 and 28. Currently the app only runs in English and portrait orientation.
 
 ### Third-party libraries
 - Google Maps
