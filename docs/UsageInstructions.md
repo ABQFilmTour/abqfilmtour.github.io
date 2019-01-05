@@ -30,7 +30,7 @@ The submit option allows the user to submit their current location as a new film
 
 *Note* - As this phase of development all locations are immediately approved, but traffic is still monitored.
 
-If a production filmed in Albuquerque does not exist in our dataset, please [contact us](abqfilmtour@gmail.com).
+If a production filmed in Albuquerque does not exist in our dataset, please [contact us](mailto:abqfilmtour@gmail.com).
 
 ### Sign Out
 Allows the user to sign out of their Google account. If the user has not used the application for an extended period of time, the user may be prompted to sign out and sign back in again. It is recomended that the user signs out when they are no longer using the application.
