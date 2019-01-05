@@ -8,13 +8,15 @@ On first run, the app will load data from the database and the progress will be 
 ## Drop Down Menu
 The drop down menu is located on the top right hand side of the title toolbar.
 
-### All Locations Menu Option
-Selecting the "All Locations" option will populate the map with every location in the database. There are nearly 1,000 locations on the map so this is only recommended if the map is already zoomed into an area that the user is interested in.
+### All Locations
+Selecting the all locations option will populate the map with every location in the database. There are nearly 1,000 locations on the map so this is only recommended if the map is already zoomed into an area that the user is interested in.
 
-### Near Me Menu Option
-A near me function is also available from the dropdown menu. If the user is within Albuquerque city limits, the map will zoom into the user’s location and populate map pins for all filming locations within approximately a mile radius. Note the device's location must be turned on for this function to be useable.
+### Near Me
+A near me function is also available from the dropdown menu. If the user is within Albuquerque city limits, the map will zoom into the user’s location and populate map pins for all filming locations within approximately a mile radius. 
 
-### Film
+*Note* - the device's location must be turned on for this function to be useable.
+
+### Film menu
 Allows the user to select a film title that they are interested in. All corresponding filming locations will be populated on the map.
 
 ### Television
@@ -28,10 +30,10 @@ The submit option allows the user to submit their current location as a new film
 
 *Note* - As this phase of development all locations are immediately approved, but traffic is still monitored.
 
-If a production filmed in Albuquerque does not exist in our dataset, please contact us (abqfilmtour@gmail.com).
+If a production filmed in Albuquerque does not exist in our dataset, please [contact us](abqfilmtour@gmail.com).
 
 ### Sign Out
-Allows the user to sign out of their Google account. If the user has not used the application for an extended period of time, the user may be prompted to sign out and sign back in again.
+Allows the user to sign out of their Google account. If the user has not used the application for an extended period of time, the user may be prompted to sign out and sign back in again. It is recomended that the user signs out when they are no longer using the application.
 
 ## Location screen
 When a user clicks on a map pin snippet, they will be taken to the location screen. The location screen displays the title of the production, and title of the filming location, a movie poster, a link to IMDB as well as a brief description of the plot summary. The user also has the ability to bookmark a location and review and leave comments. In future releases, user image uploads will also be available.
