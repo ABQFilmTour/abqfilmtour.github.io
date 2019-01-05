@@ -3,7 +3,7 @@
 On first run, the app will ask for Google Sign-In authentication as well as permission to use the device’s location. Some features of ABQFilmTour will require this permission to run properly.
 
 ## Maps screen
-On first run, the app will load data from the database and the progress will be shown with a simple spinner animation in the center of the screen. Once data has been loaded, the app will prompt the user to select a title to get started. If the user has already used the app, the map will automatically populate map pins of the last title the user selected. The user can select movie or TV show titles from the dropdown menu in the upper right corner of the screen to further narrow down the sites that they are interested in. Once a title is selected, corresponding location pins will be populated on the map. The user can manipulate the map as they would a typical Google Maps service. [Help with Google maps] (https://support.google.com/maps/answer/144349?hl=en) When a user clicks on a map pin, a brief description snippet will pop up with the production title and site name. When the snippet is selected the user will be taken to the location screen.
+On first run, the app will load data from the database and the progress will be shown with a simple spinner animation in the center of the screen. Once data has been loaded, the app will prompt the user to select a title to get started. If the user has already used the app, the map will automatically populate map pins of the last title the user selected. The user can select movie or TV show titles from the dropdown menu in the upper right corner of the screen to further narrow down the sites that they are interested in. Once a title is selected, corresponding location pins will be populated on the map. The user can manipulate the map as they would a typical Google Maps service. [Help with Google maps](https://support.google.com/maps/answer/144349?hl=en) When a user clicks on a map pin, a brief description snippet will pop up with the production title and site name. When the snippet is selected the user will be taken to the location screen.
 
 ## Drop Down Menu
 The drop down menu is located on the top right hand side of the title toolbar.
@@ -28,7 +28,7 @@ The submit option allows the user to submit their current location as a new film
 
 *Note* - As this phase of development all locations are immediately approved, but traffic is still monitored.
 
-If a production filmed in Albuquerque does not exist in our dataset, please [contact us](abqfilmtour@gmail.com).
+If a production filmed in Albuquerque does not exist in our dataset, please contact us (abqfilmtour@gmail.com).
 
 ### Sign Out
 Allows the user to sign out of their Google account. If the user has not used the application for an extended period of time, the user may be prompted to sign out and sign back in again.
