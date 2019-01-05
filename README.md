@@ -25,7 +25,8 @@ Frontend developer, mathematics consultant, responsible for oauth2 authenticatio
 
 ### Test accounts
 The minimum required Android API is 21. It has been successfully tested on Android emulators and devices running API 22, 23, 26, 27 and 28. There are no known compatibility issues. <br />
-The app runs in English with Spanish support. Data retrieved from IMDb resources is only offered in English. <br />
+Location services are restricted to function only within Albuquerque city limits. <br />
+The app runs in English with Spanish support. Data retrieved from IMDb resources are only offered in English. <br />
 The app is configured to  only run in portrait orientation. <br />
 **Accessibility**
 
