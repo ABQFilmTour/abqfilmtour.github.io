@@ -36,8 +36,8 @@ Frontend developer, design manager, created custom logo, splash page, map pins a
 Frontend developer, mathematics consultant, responsible for oauth2 authentication framework, device permissions, device location, user accessibility, and layout design, worked on controllers and repositories in backend.
 
 ### Documentation
-[Frontend Java documentation](https://abqfilmtour.github.io/ABQFilmTour/app/docs/api/index.html) <br />
-[Backend Java documentation](https://abqfilmtour.github.io/ABQFilmTourBackend/docs/api/index.html) <br />
+[Frontend Java documentation](docs/frontend/index.html) <br />
+[Backend Java documentation](docs/rest/api.md) <br />
 [REST API documentation](https://abqfilmtour.github.io/ABQFilmTourBackend/docs/rest/api.html) <br />
 
 ### Functional inventory
