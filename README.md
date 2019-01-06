@@ -1,7 +1,9 @@
 # ABQ Film Tour
 
 ### Aims
-ABQ Film Tour is an Android app for tourists and film enthusiasts in the Albuquerque area. Users can find, submit, and discuss locations featured in locally filmed movies and television series such as "Breaking Bad" and "Better Call Saul". <br />
+Albuquerque, New Mexico is a beautiful city, and despite not being commonly known as a spot for film tourism, it has been featured as a shooting location in many popular movies and television series. We believe this to be an untapped source of potential tourism and commercial opportunity. The city is iconic for series such as Breaking Bad and Better Call Saul, and already businesses such as Breaking Bad RV Tours thrive on tourists attracted by their favorite shows. We hope our app can be utilized to help promote the city and allow residents and tourists alike to facilitate their own self guided tours of filming locations in the area. Our initial database of locations utilizes city provided open data, but we have also allowed for user submitted content so that enthusiasts can build upon our initial dataset. As businesses such as Netflix expand into the area we have hopes that our app will create an amazing way to experience the city.
+
+<br />
 **Demo Reel Here** <br />
 **Three screenshots here**
 
