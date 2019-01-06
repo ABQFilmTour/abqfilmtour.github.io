@@ -19,7 +19,7 @@ The app runs in English and Spanish, however data retrieved from IMDb resources 
 The app is configured to only run in portrait orientation. <br />
 
 ### Accessibility
-ABQ Film Tour was built with accessibility in mind. All images and buttons have content descriptions in English and Spanish for compatibility with screen readers. The app has been successfully tested with Android's TalkBack screen reader. As a stretch goal we would like to implement directions to locations functionality to further assist the visually impaired. 
+ABQ Film Tour was built with accessibility in mind. All images and buttons have content descriptions in English and Spanish for compatibility with screen readers. The app has been successfully tested with Android's TalkBack and Select to Speak screen readers. The Google Maps directions button can navigate a user to a specific location. As a stretch goal we would like to implement directions to multiple bookmarked locations to further assist the visually impaired.
 
 ### Team
 Bio: We are alumni of the Deep Dive Coding Java+Android+Salesforce bootcamp through CNM. This application was originally our final team capstone project for the course. We are also submitting it for the UNM/CNM application contest and plan to continue development on it. <br />
