@@ -1,7 +1,7 @@
 # ABQ Film Tour
 
 ### Aims
-Albuquerque, New Mexico is a beautiful city, and despite not being commonly known as a spot for film tourism, it has been featured as a shooting location in many popular movies and television series. We believe this to be an untapped source of potential tourism and commercial opportunity. The city is iconic for series such as Breaking Bad and Better Call Saul, and already businesses such as Breaking Bad RV Tours thrive on tourists attracted by their favorite shows. We hope our app can be utilized to help promote the city and allow residents and tourists alike to facilitate their own self guided tours of filming locations in the area. Our initial database of locations utilizes city provided open data, but we have also allowed for user submitted content so that enthusiasts can build upon our initial dataset. As businesses such as Netflix expand into the area we have hopes that our app will create an amazing way to experience the city.
+Albuquerque, New Mexico is becoming a destination for film tourism. It has been featured as a shooting location in many popular movies and television series, iconically for series such as Breaking Bad and Better Call Saul. We believe that there is more potential for tourism and commercial opportunities for the community. Already businesses are capitalizing on tourists attracted by their favorite movies and shows. We hope our app can be utilized to help promote Albuquerque and allow residents and tourists alike to facilitate their own mobile tours of filming locations in the city. Our initial database of locations utilizes city provided open data, but we have also allowed for user submitted content so that enthusiasts can build upon the initial dataset. As businesses such as Netflix expand into the area we believe that our app will create an amazing way to experience the city.
 
 <br />
 **Demo Reel Here** <br />
@@ -19,7 +19,7 @@ The app runs in English and Spanish, however data retrieved from IMDb resources 
 The app is configured to only run in portrait orientation. <br />
 
 ### Accessibility
-ABQ Film Tour was built with accessibility in mind. All images and buttons have content descriptions in English and Spanish for compatibility with screen readers. The app has been successfully tested with Android's TalkBack and Select to Speak screen readers. The Google Maps directions button can navigate a user to a specific location. As a stretch goal we would like to implement directions to multiple bookmarked locations to further assist the visually impaired.
+ABQ Film Tour was built with accessibility in mind. All images and buttons have content descriptions in English and Spanish for compatibility with screen readers. The app has been successfully tested with Android's TalkBack and Select to Speak screen readers. The Google Maps directions feature can further assist the visually impaired to navigate to a specific location. 
 
 ### Team
 Bio: We are alumni of the Deep Dive Coding Java+Android+Salesforce bootcamp through CNM. This application was originally our final team capstone project for the course. We are also submitting it for the UNM/CNM application contest and plan to continue development on it. <br />
