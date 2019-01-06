@@ -5,7 +5,7 @@ Albuquerque, New Mexico is a beautiful city, and despite not being commonly know
 
 <br />
 **Demo Reel Here** <br />
-**Three screenshots here**
+![Screenshot 1](pics/screen1800x1600.jpeg) ![Screenshot 2](pics/screen2800x1600.jpeg) ![Screenshot 3](pics/screen3800x1600.jpeg)
 
 ### Instructions
 **Download Link Here**
