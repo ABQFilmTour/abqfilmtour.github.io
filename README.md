@@ -8,16 +8,18 @@ Albuquerque, New Mexico is a beautiful city, and despite not being commonly know
 ![Screenshot 1](pics/screen1800x1600.jpeg) ![Screenshot 2](pics/screen2800x1600.jpeg) ![Screenshot 3](pics/screen3800x1600.jpeg)
 
 ### Instructions
-**Download Link Here**
+**Download Link Here** <br />
 [Build Instructions](docs/BuildInstructions.md) <br />
 [Usage Instructions](docs/UsageInstructions.md)
 
 ### Test accounts
 The minimum required Android API is 21. It has been successfully tested on Android emulators and devices running API 22, 23, 26, 27 and 28. There are no known compatibility issues. <br />
 Location services are restricted to function only within Albuquerque city limits. <br />
-The app runs in English with Spanish support. Data retrieved from IMDb resources are only offered in English. <br />
-The app is configured to  only run in portrait orientation. <br />
-**Accessibility**
+The app runs in English and Spanish, however data retrieved from IMDb resources are only offered in English. <br />
+The app is configured to only run in portrait orientation. <br />
+
+### Accessibility
+ABQ Film Tour was built with accessibility in mind. All images and buttons have content descriptions in English and Spanish for compatibility with screen readers. The app has been successfully tested with Android's TalkBack screen reader. As a stretch goal we would like to implement directions to locations functionality to further assist the visually impaired. 
 
 ### Team
 Bio: We are alumni of the Deep Dive Coding Java+Android+Salesforce bootcamp through CNM. This application was originally our final team capstone project for the course. We are also submitting it for the UNM/CNM application contest and plan to continue development on it. <br />
