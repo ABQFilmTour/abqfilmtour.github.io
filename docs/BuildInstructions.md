@@ -1,22 +1,22 @@
 # Build Instructions
 
-### 1. From your Android phone open a browser and navigate to http://jscpeterson.com/app-debug.apk
+1. From your Android phone open a browser and navigate to http://jscpeterson.com/app-debug.apk
 
-### 2. You will be prompted to download the file. Select DOWNLOAD.
+2. You will be prompted to download the file. Select DOWNLOAD.
 
-### 3. After download is complete OPEN the download.
+3. After download is complete OPEN the download.
 
-### 4. Your mobile device will likely prompt a security warning since the app is not being downloaded from the App Store. If this is the case, click on the SETTINGS button.
+4. Your mobile device will likely prompt a security warning since the app is not being downloaded from the App Store. If this is the case, click on the SETTINGS button.
 
-### 5. Toggle the switch to allow install from this source to the on position. Then hit the back button or okay button.
+5. Toggle the switch to allow install from this source to the on position. Then hit the back button or okay button.
 
-### 6. You will then see the title of the app, "Film Tour" with the icon in the top toolbar. This screen will ask if you want to install this application. It does not require any special access. Select INSTALL.
+6. You will then see the title of the app, "Film Tour" with the icon in the top toolbar. This screen will ask if you want to install this application. It does not require any special access. Select INSTALL.
 
-### 7. The app will install and you will see a message if it was successfully downloaded. If the download was unsuccessful start again from step 1. 
+7. The app will install and you will see a message if it was successfully downloaded. If the download was unsuccessful start again from step 1. 
 
-### 8. Select OPEN to opent the app for the first time.
+8. Select OPEN to opent the app for the first time.
 
-### 9. For further help and instructions here is a link to our [User Instructions](https://abqfilmtour.github.io/docs/UsageInstructions.html). If you are experiencing difficulty with the download please [contact us](mailto:abqfilmtour@gmail.com).
+9. For further help and instructions here is a link to our [User Instructions](https://abqfilmtour.github.io/docs/UsageInstructions.html). If you are experiencing difficulty with the download please [contact us](mailto:abqfilmtour@gmail.com).
 
 
 ## Advanced Build instructions for developers
