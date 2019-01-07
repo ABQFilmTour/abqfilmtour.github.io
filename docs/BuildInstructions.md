@@ -1,6 +1,6 @@
 # Build Instructions
 
-1. From your Android phone open a browser and navigate to http://jscpeterson.com/app-debug.apk
+1. From your Android phone open a browser and navigate to https://jscpeterson.com/abqfilmtour.apk or click [here](https://jscpeterson.com/abqfilmtour.apk)
 
 2. You will be prompted to download the file. Select DOWNLOAD.
 
