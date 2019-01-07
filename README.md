@@ -42,8 +42,8 @@ Frontend developer, mathematics consultant, responsible for Google Sign In authe
 
 ### Documentation
 [Frontend Java documentation](docs/frontend/index.html) <br />
-[Backend Java documentation](docs/rest/api.md) <br />
-[REST API documentation](docs/backend/index.html) <br />
+[Backend Java documentation](docs/backend/index.html) <br />
+[REST API documentation](docs/rest/api.md) <br />
 
 ### Functional inventory
 - [Repository](https://github.com/ABQFilmTour/ABQFilmTour) for the client Android application that the end user will use.
