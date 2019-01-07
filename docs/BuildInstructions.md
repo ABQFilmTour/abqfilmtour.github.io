@@ -25,7 +25,7 @@
 
 From github click the "clone or download button" and copy the URL.
 
-### Option 1: Import the project into Intellij IDEA
+### Import the project into Intellij IDEA
 
 under the VCS dropdown menu select "checkout from version control" and select "git". Paste the copied URL into the URL box.
 Select a directory to save the project and hit the "clone" button.
@@ -38,27 +38,6 @@ Click the next button. On the next menu screen check the box "Use auto-import" a
 #### Synchronize the Gradle build
 
 Intellij IDEA should do this automatically. If not in build.gradle(Module:app) file there should be an option to do so.
-
-#### Execute the build
-
-Under the Build drop down menu select "build".  
-
-The app should now be ready to run. Selected the device you want to install it on and hit the okay button.
-
-
-### Option 2: Import the project into Android Studio
-
-From the welcome page select "checkout from version control" and select "git". Paste the copied URL into the URL box. Select a directory to save the project and hit the "clone" button.
-
-You will be asked "Would you like to create an Android Studio project for the sources you have checked out to {project directory}". Select "Yes".
-
-From the Import Project screen. Select Create project from external model and make sure that Gradle is selected. Then hit the Next button.
-
-Check the use auto-import checkbox and select finish.
-
-#### Synchronize the Gradle build
-
-Android Studio should do this automatically. If not in build.gradle(Module:app) file there should be an option to do so.
 
 #### Execute the build
 
