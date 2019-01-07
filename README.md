@@ -33,7 +33,7 @@ Fullstack developer, lead backend engineer, set up and maintained the server, se
 Frontend developer, design manager, created custom logo, splash page, map pins and app theme, in charge of UI/UX and layout design, created dynamic UX wireframes and mockups, worked on controllers and repositories in backend.
 
 [**Rebecca Farish**](https://github.com/rebfarish)
-Frontend developer, mathematics consultant, responsible for oauth2 authentication framework, device permissions, device location, user accessibility, and layout design, worked on controllers and repositories in backend.
+Frontend developer, mathematics consultant, responsible for Google Sign In authentication on the frontend, device permissions, device location, Spanish translations, user accessibility, and layout design, worked on controllers and repositories in backend.
 
 ### Documentation
 [Frontend Java documentation](docs/frontend/index.html) <br />
@@ -70,6 +70,8 @@ The application currently loads and can populate a map of Albuquerque with film 
 - Caching data on the local device so the app is still usable offline, using a persistence library such as ROOM.
 - Improving the OdeonClient project to allow anyone who wants to assist with the team limited access to database features for moderation purposes. 
 - Further backend security measures, such as request and submission throttling.
+- Integrate Google Maps directions for bookmarked locations so that a user can have directions from one location to the next in a self-made tour.
+- Translate our usage instructions into Spanish so that the help (ayuda) option on the menu is supported in Spanish.
 
 ### Third-party libraries
 - Google Maps
