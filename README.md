@@ -3,12 +3,8 @@
 ### Aims
 Albuquerque, New Mexico is becoming a destination for film tourism. It has been featured as a shooting location in many popular movies and television series, iconically for series such as Breaking Bad and Better Call Saul. We believe that there is more potential for tourism and commercial opportunities for the community. Already businesses are capitalizing on tourists attracted by their favorite movies and shows. We hope our app can be utilized to help promote Albuquerque and allow residents and tourists alike to facilitate their own mobile tours of filming locations in the city. Our initial database of locations utilizes city provided open data, but we have also allowed for user submitted content so that enthusiasts can build upon the initial dataset. As businesses such as Netflix expand into the area we believe that our app will create an amazing way to experience the city.
 
-<br />
-**Demo Reel Here** <br />
-![Screenshot 1](pics/screen1800x1600.jpeg) ![Screenshot 2](pics/screen2800x1600.jpeg) ![Screenshot 3](pics/screen3800x1600.jpeg)
-
 ### Instructions
-**Download Link Here** <br />
+**[Download](jscpeterson.com/abqfilmtour.apk)** <br />
 [Build Instructions](docs/BuildInstructions.md) <br />
 [Usage Instructions](docs/UsageInstructions.md)
 
@@ -38,16 +34,15 @@ Frontend developer, mathematics consultant, responsible for Google Sign In authe
 ### Documentation
 [Frontend Java documentation](docs/frontend/index.html) <br />
 [Backend Java documentation](docs/rest/api.md) <br />
-[REST API documentation](https://abqfilmtour.github.io/ABQFilmTourBackend/docs/rest/api.html) <br />
+[REST API documentation](docs/backend/index.html) <br />
 
 ### Functional inventory
-
 - [Repository](https://github.com/ABQFilmTour/ABQFilmTour) for the client Android application that the end user will use.
 - [Repository](https://github.com/ABQFilmTour/ABQFilmTourBackend) for the server side backend REST API. It is a Spring Boot project using an Apache Derby database.
 - [Repository](https://abqfilmtour.github.io/OdeonClient/) for an in development client to assist privileged users in moderating the backend database.
 
 ### Prototypes
-[Adobe XD Prototype](https://xd.adobe.com/view/81f12600-75b1-4f07-7cc3-a86bc45dacf9-f7c0/) <br />
+**[Adobe XD Prototype](https://xd.adobe.com/view/81f12600-75b1-4f07-7cc3-a86bc45dacf9-f7c0/)** <br />
 [User Stories](docs/UserStories.md) <br />
 [ERD](docs/ERD.pdf)
 
