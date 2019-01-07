@@ -86,6 +86,7 @@ The application currently loads and can populate a map of Albuquerque with film 
 -  Google Maps
 -  [OMDb API](http://www.omdbapi.com/)
 -  [City of Albuquerque public film locations](http://data.cabq.gov/business/filmlocations/filmlocationsJSON_ALL) Retrieved on 12/3/2018
+- [Cloudinary](https://cloudinary.com/tos)
 
 [Licenses](docs/Licenses.md) <br />
 
