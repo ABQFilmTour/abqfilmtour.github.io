@@ -71,6 +71,7 @@ The application currently loads and can populate a map of Albuquerque with film 
 - Improving the OdeonClient project to allow anyone who wants to assist with the team limited access to database features for moderation purposes. 
 - Further backend security measures, such as request and submission throttling.
 - Integrate Google Maps directions for bookmarked locations so that a user can have directions from one location to the next in a self-made tour.
+- Add a distance from me on the map snippets.
 - Translate our usage instructions into Spanish so that the help (ayuda) option on the menu is supported in Spanish.
 
 ### Third-party libraries
