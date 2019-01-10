@@ -8,7 +8,7 @@ Albuquerque, New Mexico is becoming a destination for film tourism. It has been 
 [Build Instructions](docs/BuildInstructions.md) <br />
 [Usage Instructions](docs/UsageInstructions.md)
 
-### [Demo Reel](https://youtu.be/oqc-gk-4luM)
+### [Demo Reel](https://youtu.be/WrVPXLInp1M)
 
 Screenshot of the menu on opening the app, also demonstrating Spanish support
 ![Screenshot 1](pics/ScreenshotSpanish600x1200.png)<br />
