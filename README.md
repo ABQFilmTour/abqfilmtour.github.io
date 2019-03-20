@@ -3,12 +3,7 @@
 ### Aims
 Albuquerque, New Mexico is becoming a destination for film tourism. It has been featured as a shooting location in many popular movies and television series, iconically for series such as Breaking Bad and Better Call Saul. We believe that there is more potential for tourism and commercial opportunities for the community. Already businesses are capitalizing on tourists attracted by their favorite movies and shows. We hope our app can be utilized to help promote Albuquerque and allow residents and tourists alike to facilitate their own mobile tours of filming locations in the city. Our initial database of locations utilizes city provided open data, but we have also allowed for user submitted content so that enthusiasts can build upon the initial dataset. As businesses such as Netflix expand into the area we believe that our app will create an amazing way to experience the city.
 
-### Instructions
-**[Download](https://jscpeterson.com/abqfilmtour.apk)** <br />
-[Build Instructions](docs/BuildInstructions.md) <br />
-[Usage Instructions](docs/UsageInstructions.md)
-
-### [Demo Reel](https://youtu.be/WrVPXLInp1M)
+### Contact us at info@odeon.llc if you are interested in testing or trying out our app!
 
 Screenshot of the menu on opening the app, also demonstrating Spanish support
 ![Screenshot 1](pics/ScreenshotSpanish600x1200.png)<br />
