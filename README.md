@@ -24,7 +24,7 @@ ABQ Film Tour was built with accessibility in mind. All images and buttons have 
 ### Team
 Bio: We are alumni of the Deep Dive Coding Java+Android+Salesforce bootcamp through CNM. This application was originally our final team capstone project for the course. We are also submitting it for the UNM/CNM application contest and plan to continue development on it. <br />
 
-Contact the team [here](mailto:abqfilmtour@gmail.com) or contact an individual member for more information:
+Contact the team [here](mailto:info@odeon.llc) or contact an individual member for more information:
 
 [**Joseph Scott Peterson**](https://jscpeterson.github.io)
 Fullstack developer, lead backend engineer, set up and maintained the server, set up API security, set up backend to frontend communication, activity stack management, shared preferences and layout design.
