@@ -8,15 +8,17 @@ Albuquerque, New Mexico is becoming a destination for film tourism. It has been 
 
 ![Screenshot 1](pics/ScreenshotSpanish600x1200.png)<br/>
 
-<p align="center">Screenshot of the menu on opening the app, also demonstrating Spanish support.</p>
+<p align="center"> (Screenshot of the menu on opening the app, also demonstrating Spanish support.) </p>
+<br/>
 
 ![Screenshot 2](pics/Screenshot2DogHouse.jpg)<br/>
 
-<p align="center">Screenshot of a populated map, filtered by a television series.</p>
+<p align="center"> (Screenshot of a populated map, filtered by a television series.) </p>
+<br/>
 
 ![Screenshot 3](pics/Screenshot3Carwash.jpg)<br/>
 
-<p align="center">Screenshot of a location with user submitted comment and image.</p>
+<p align="center"> (Screenshot of a location with user submitted comment and image.) </p>
 <br/>
 
 ### Team
@@ -41,10 +43,9 @@ Frontend developer, design manager, created custom logo, splash page, map pins a
 <br/>
 
 ### Test accounts
-The minimum required Android API is 21. It has been successfully tested on Android emulators and devices running API 22, 23, 26, 27 and 28. There are no known compatibility issues. <br />
-Location services are restricted to function only within Albuquerque city limits. <br />
-The app runs in English and Spanish, however data retrieved from IMDb resources are only offered in English. <br />
-The app is configured to only run in portrait orientation. <br />
+- The minimum required Android API is 21. It has been successfully tested on Android emulators and devices running API 22, 23, 26, 27 and 28. There are no known compatibility issues.
+- Location services are restricted to function only within Albuquerque city limits.
+- The app runs in English and Spanish, however data retrieved from IMDb resources are only offered in English.
 
 ### Accessibility
 ABQ Film Tour was built with accessibility in mind. All images and buttons have content descriptions in English and Spanish for compatibility with screen readers. The app has been successfully tested with Android's TalkBack and Select to Speak screen readers. The Google Maps directions feature can further assist the visually impaired to navigate to a specific location. 
@@ -67,7 +68,7 @@ Note: All of our repositories are private. If you have any questions or would li
 [ERD](docs/ERD.pdf)
 
 ### State of completion
-The application currently loads and can populate a map of Albuquerque with film locations stored in a backend database with certain filters provided by the user. The user can view all locations in the database, view all locations in their general vicinity, view locations associated with a film or television series, or view locations that have been flagged as bookmarked by the user. Opening a location map marker provides the user with more information about the production and shoot. The user can submit their location to an existing production in the database, submit a comment to an existing location, or submit an image. When this project is officially released, these will not be displayed until approved by a member of the team. To fully demonstrate the capabilites of the application at this stage in development all submissions are approved immediately, however, a member of the team will be monitoring traffic and has the capability to ban malicious users from the service. 
+The application currently loads and can populate a map of Albuquerque with film locations stored in a backend database with certain filters provided by the user. The user can view all locations in the database, view all locations in their general vicinity, view locations associated with a film or television series, or view locations that have been flagged as bookmarked by the user. Opening a location map marker provides the user with more information about the production and shoot. The user can submit their location to an existing production in the database, submit a comment to an existing location, or submit an image. These submissions will not be displayed until approved by a member of the team. The team monitors traffic and has the capability to ban malicious users from the service. 
 
 ### Stretch goals
 - Image completion and retrieval works on the client, however, only the most recent approved image is displayed in the header. To complete this feature we are still working on an image gallery to allow the user to navigate through all of the images submitted to a location.
@@ -75,9 +76,9 @@ The application currently loads and can populate a map of Albuquerque with film 
 - Caching data on the local device so the app is still usable offline, using a persistence library such as ROOM.
 - Improving the OdeonClient project to allow anyone who wants to assist with the team limited access to database features for moderation purposes. 
 - Further backend security measures, such as request and submission throttling.
-- Integrate Google Maps directions for bookmarked locations so that a user can have directions from one location to the next in a self-made tour.
-- Add a distance from me on the map snippets.
+- Create premade tours for the most popular productions.
 - Translate our usage instructions into Spanish so that the help (ayuda) option on the menu is supported in Spanish.
+- Add sponsored locations for local businesses with a unique map pin.
 
 ### Third-party libraries
 - Google Maps
