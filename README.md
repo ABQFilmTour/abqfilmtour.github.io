@@ -41,9 +41,10 @@ Frontend developer, mathematics consultant, responsible for Google Sign In authe
 [REST API documentation](docs/rest/api.md) <br />
 
 ### Functional inventory
-- [Repository](https://github.com/ABQFilmTour/ABQFilmTour) for the client Android application that the end user will use.
-- [Repository](https://github.com/ABQFilmTour/ABQFilmTourBackend) for the server side backend REST API. It is a Spring Boot project using an Apache Derby database.
-- [Repository](https://abqfilmtour.github.io/OdeonClient/) for an in development client to assist privileged users in moderating the backend database.
+- Client Android application that the end user will use.
+- Server side backend REST API. It is a Spring Boot project using an Apache Derby database.
+- Client to assist privileged users in moderating the backend database (in development).
+Note: All of our repositories are private. If you have any questions or would like to learn more email us at info@odeon.llc.
 
 ### Prototypes
 **[Adobe XD Prototype](https://xd.adobe.com/view/81f12600-75b1-4f07-7cc3-a86bc45dacf9-f7c0/)** <br />
