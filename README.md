@@ -8,26 +8,21 @@ Albuquerque, New Mexico is becoming a destination for film tourism. It has been 
 
 ![Screenshot 1](pics/ScreenshotSpanish600x1200.png)<br/>
 
-<p align="center"> (Screenshot of the menu on opening the app, also demonstrating Spanish support.) </p>
+<p align="center"> (Screenshot of the menu on opening the app, also demonstrating Spanish support) </p>
 <br/>
 
 ![Screenshot 2](pics/Screenshot2DogHouse.jpg)<br/>
 
-<p align="center"> (Screenshot of a populated map, filtered by a television series.) </p>
+<p align="center"> (Screenshot of a populated map, filtered by a television series) </p>
 <br/>
 
 ![Screenshot 3](pics/Screenshot3Carwash.jpg)<br/>
 
-<p align="center"> (Screenshot of a location with user submitted comment and image.) </p>
+<p align="center"> (Screenshot of a location with user submitted comment and image) </p>
 <br/>
 
 ### Team
-We are alumni of the Deep Dive Coding Java+Android+Salesforce bootcamp through CNM and the co-founders of Odeon LLC. This application was originally our final team capstone project. We are also the second place winners of the UNM/CNM App Contest. 
-
-[Odeon LLC](https://odeon.llc/)
-
-[UNM/CNM App Contest](https://appcontest.unm.edu/)
-<br/>
+We are alumni of the Deep Dive Coding Java+Android+Salesforce bootcamp through CNM and the co-founders of [Odeon LLC](https://odeon.llc/). This application was originally our final team capstone project. We are also the second place winners of the [UNM/CNM App Contest](https://appcontest.unm.edu/). 
 <br/>
 
 Contact the team [here](mailto:info@odeon.llc) or contact an individual member for more information.
