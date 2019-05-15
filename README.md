@@ -44,6 +44,7 @@ Frontend developer, mathematics consultant, responsible for Google Sign In authe
 - Client Android application that the end user will use.
 - Server side backend REST API. It is a Spring Boot project using an Apache Derby database.
 - Client to assist privileged users in moderating the backend database (in development).
+
 Note: All of our repositories are private. If you have any questions or would like to learn more email us at info@odeon.llc.
 
 ### Prototypes
