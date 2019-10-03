@@ -3,7 +3,7 @@
 ### Aims
 Albuquerque, New Mexico is becoming a destination for film tourism. It has been featured as a shooting location in many popular movies and television series, iconically for series such as Breaking Bad and Better Call Saul. We believe that there is more potential for tourism and commercial opportunities for the community. Already businesses are capitalizing on tourists attracted by their favorite movies and shows. We hope our app can be utilized to help promote Albuquerque and allow residents and tourists alike to facilitate their own mobile tours of filming locations in the city. Our initial database of locations utilizes city provided open data, but we have also allowed for user submitted content so that enthusiasts can build upon the initial dataset. As businesses such as Netflix expand into the area we believe that our app will create an amazing way to experience the city.
 
-### Contact us at info@odeon.llc if you are interested in testing or trying out our app!
+[**Download**](https://www.jscpeterson.com/abqfilmtour.apk)
 <br/>
 
 ![Screenshot 1](pics/ScreenshotSpanish600x1200.png)<br/>
@@ -27,7 +27,7 @@ We are alumni of the Deep Dive Coding Java+Android+Salesforce bootcamp through C
 
 Contact the team [here](mailto:info@odeon.llc) or contact an individual member for more information.
 
-[**Joseph Scott Peterson**](https://jscpeterson.github.io)
+[**Joseph Scott Peterson**](https://jscpeterson.com)
 Fullstack developer, lead backend engineer, set up and maintained the server, set up API security, set up backend to frontend communication, activity stack management, shared preferences and layout design.
 
 [**Rebecca Farish**](https://github.com/rebfarish)
